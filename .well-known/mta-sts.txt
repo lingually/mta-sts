@@ -1,8 +1,7 @@
 version: STSv1
 mode: enforce
-mx: aspmx.l.google.com
-mx: alt1.aspmx.l.google.com
-mx: alt2.aspmx.l.google.com
-mx: alt3.aspmx.l.google.com
-mx: alt4.aspmx.l.google.com
+mx: mx1.smtp.goog
+mx: mx2.smtp.goog
+mx: mx3.smtp.goog
+mx: mx4.smtp.goog
 max_age: 1209600
